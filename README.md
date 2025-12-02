@@ -4,7 +4,7 @@ Interface moderna e intuitiva para o sistema **IguaçuCard**, focado em gestão 
 ## 🚀 Tecnologias
 - **HTML + CSS + JS**
 
-==========================================
+----
 
 ## ⚙️ Como Rodar o Projeto
 
@@ -13,9 +13,13 @@ Interface moderna e intuitiva para o sistema **IguaçuCard**, focado em gestão 
 3. Vá em **File > Project Structure** e configure o SDK.
 4. Execute a classe principal (ex: `Main.java`).
 
+----
+
 ## 🔌 Integração com Backend
 
 Este front-end foi projetado para ser a Experiencia do Usuario além do Backend 👉 https://github.com/devheron/iguacuCardBackendSwing
+
+----
 
 ## 🧩 Funcionalidades
 
@@ -26,11 +30,18 @@ Este front-end foi projetado para ser a Experiencia do Usuario além do Backend 
 - Comunicação com backend em Swing  
 - Telas organizadas e bem estruturadas  
 
+----
+
 ## 🛠 Manutenção e Contribuição
 
 Pull requests são bem-vindos!  
 Para alterações maiores, abra uma issue antes para discutirmos a mudança.
 
+----
+
+
 ## © 2025 – IguaçuCard  
 Sistema desenvolvido para suporte a serviços de saúde e benefícios.
 - HF Sistemas
+
+----
